@@ -1,0 +1,12 @@
+.navbar nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1.5px solid black;
+}
+.navbar nav ul{
+  display: flex;
+  list-style: none;
+  gap: 30px;
+  font-size: larger;
+}
